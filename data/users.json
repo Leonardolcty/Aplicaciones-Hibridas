@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Julieta",
+    "email": "juli@dv.com",
+    "password": "1234",
+    "id": "b2dc2fb6-a565-4239-8394-1b4fe8072d44"
+  },
+  {
+    "name": "Rocio",
+    "email": "rocio@dv.com",
+    "password": "1234",
+    "id": "dbda89f7-d367-438c-ae47-0e88e9c7da11"
+  },
+  {
+    "name": "Julieta",
+    "email": "juli@dv.com",
+    "password": "1234",
+    "id": "8e6fa6c5-cfba-4df7-972b-d5099f33cbdd"
+  },
+  {
+    "name": "Rocio",
+    "email": "rocio@dv.com",
+    "password": "1234",
+    "id": "74132b1d-c74f-48c5-a7d1-fe4cf38b233d"
+  },
+  {
+    "name": "Julieta",
+    "email": "juli@dv.com",
+    "password": "1234",
+    "id": "97041196-758a-4737-afd6-1013f059e07b"
+  },
+  {
+    "name": "Rocio",
+    "email": "rocio@dv.com",
+    "password": "1234",
+    "id": "8809a6e7-41de-4620-956e-a72bb630aa90"
+  }
+]
